@@ -1,0 +1,6 @@
+server:
+  port: dev-3355
+
+spring:
+  application:
+    name: cloud-config-center-dev
